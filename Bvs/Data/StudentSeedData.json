@@ -1,0 +1,54 @@
+[
+  {
+    "Name": "Higgins",
+    "Vorname": "Jennifer",
+    "Email": "jenniferhiggins@krag.com",
+    "MatrikelNum": 20201998,
+    "BibNum": 2020426,
+    "Foto": "http://placehold.it/32x32"
+  },
+  {
+    "Name": "Frank",
+    "Vorname": "Mayra",
+    "Email": "mayrafrank@krag.com",
+    "MatrikelNum": 20207113,
+    "BibNum": 2020802,
+    "Foto": "http://placehold.it/32x32"
+  },
+  {
+    "Name": "Lucas",
+    "Vorname": "Harrison",
+    "Email": "harrisonlucas@krag.com",
+    "MatrikelNum": 20201113,
+    "BibNum": 2020711,
+    "Foto": "http://placehold.it/32x32"
+  },
+  {
+    "Name": "Peck",
+    "Vorname": "Cochran",
+    "Email": "cochranpeck@krag.com",
+    "MatrikelNum": 20204175,
+    "BibNum": 2020393,
+    "Foto": "http://placehold.it/32x32"
+  },
+  {
+    "Name": "Montoya",
+    "Vorname": "Small",
+    "Email": "smallmontoya@krag.com",
+    "MatrikelNum": 20202665,
+    "BibNum": 2020682,
+    "Foto": "http://placehold.it/32x32"
+  }
+]
+
+//[
+//  "{{repeat(5, 7)}}",
+//  {
+//    "Name": "{{surname()}}",
+//    "Vorname": "{{firstName()}}",
+//    "Email": "{{email()}}",
+//    "MatrikelNum": "2020{{integer(10, 99)}}{{integer(10, 99)}}",
+//    "BibNum": "2020{{integer(10, 99)}}{{integer(1, 9)}}",
+//    "Foto": "http://placehold.it/32x32"
+//  }
+//]
